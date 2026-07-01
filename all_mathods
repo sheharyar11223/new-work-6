@@ -1,0 +1,13 @@
+let first_name = "Sheharyar";
+
+let last_name = "Khan";
+
+let full_name = first_name .concat( last_name);
+
+console.log(full_name)
+
+console.log(first_name.replace("Sheharyar", "sheharyar"))
+
+console.log(first_name.charAt(4))
+
+console.log(last_name.charAt(1))
